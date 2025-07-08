@@ -6,5 +6,7 @@ Then,
       
 # npm create vite@latest app_name -- --template react-ts 
           here, my app name is loginRegister
-          Use this template freely as you want.
+          Use this template freely as you want;
+          
+#Edits Can be done on AuthForm.tsx and App.tsx only
 
